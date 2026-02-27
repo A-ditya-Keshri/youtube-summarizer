@@ -44,7 +44,7 @@ This is a smart AI research assistant that fetches YouTube video transcripts, ge
 
 3. **Start the Bot**:
    ```bash
-   npx openclaw
+   npx openclaw gateway
    ```
 
 4. **Interact**:
